@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Scraps user data (never commit)
+store.json
+store.json.tmp
+store.json.corrupt-*
+
+# OS
+Thumbs.db
+Desktop.ini
